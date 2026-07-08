@@ -6,18 +6,18 @@ VS Code dark theme. Blends [Atom One Dark](https://marketplace.visualstudio.com/
 
 ## Palette
 
-| | Hex |
-|---|---|
+|        | Hex       |
+| ------ | --------- |
 | Editor | `#121314` |
 | Chrome | `#191A1B` |
 | Accent | `#3994BC` |
-| Text | `#bfbfbf` |
+| Text   | `#bfbfbf` |
 
 ## Install
 
 Extensions (`Ctrl+Shift+X`) → search **Nightcraft** → Install
 
-Or: `code --install-extension mattwigg.vscode-theme-nightcraft`
+Or: `code --install-extension matt-wigg.vscode-theme-nightcraft`
 
 ## License
 
