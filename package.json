@@ -1,0 +1,54 @@
+{
+  "name": "vscode-theme-nightcraft",
+  "displayName": "Nightcraft",
+  "description": "A handcrafted dark theme by Matt Wigg. Near-black editor depths with steel-blue chrome accents and Atom One Dark-inspired syntax highlighting — built for long sessions in low light.",
+  "version": "1.0.0",
+  "publisher": "mattwigg",
+  "author": {
+    "name": "Matt Wigg"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matt-wigg/vscode-theme-nightcraft"
+  },
+  "bugs": {
+    "url": "https://github.com/matt-wigg/vscode-theme-nightcraft/issues"
+  },
+  "homepage": "https://github.com/matt-wigg/vscode-theme-nightcraft#readme",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#121314",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "atom",
+    "one dark",
+    "nightcraft",
+    "matt wigg",
+    "steel blue",
+    "dark theme",
+    "custom theme",
+    "low light",
+    "professional"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nightcraft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nightcraft.json"
+      }
+    ]
+  },
+  "preview": false,
+  "pricing": "Free"
+}
