@@ -16,7 +16,7 @@
     "url": "https://github.com/matt-wigg/vscode-theme-nightcraft/issues"
   },
   "homepage": "https://github.com/matt-wigg/vscode-theme-nightcraft#readme",
-  "icon": "icon.png",
+  "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#121314",
     "theme": "dark"

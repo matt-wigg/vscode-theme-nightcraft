@@ -2,7 +2,7 @@
 
 VS Code dark theme. Blends [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) syntax tokens with [VS Code Dark Modern](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json) UI chrome - both pushed darker.
 
-_Screenshot will be added in the next release._
+![Nightcraft theme screenshot](./images/nightcraft.png)
 
 ## Palette
 
