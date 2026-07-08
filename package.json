@@ -10,12 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mpw003_umb/matt-wigg-vscode-settings"
+    "url": "https://github.com/matt-wigg/vscode-theme-nightcraft"
   },
   "bugs": {
-    "url": "https://github.com/mpw003_umb/matt-wigg-vscode-settings/issues"
+    "url": "https://github.com/matt-wigg/vscode-theme-nightcraft/issues"
   },
-  "homepage": "https://github.com/mpw003_umb/matt-wigg-vscode-settings#readme",
+  "homepage": "https://github.com/matt-wigg/vscode-theme-nightcraft#readme",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#121314",
