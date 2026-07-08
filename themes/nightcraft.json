@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Nightcraft",
+  "name": "Nightcraft Theme",
   "author": "Matt Wigg",
   "include": "./OneDark.json",
   "type": "dark",

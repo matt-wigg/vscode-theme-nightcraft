@@ -1,6 +1,6 @@
 {
   "name": "visual-studio-code-theme-nightcraft",
-  "displayName": "Nightcraft",
+  "displayName": "Nightcraft Theme",
   "description": "A handcrafted dark theme by Matt Wigg. Near-black editor depths with steel-blue chrome accents and Atom One Dark-inspired syntax highlighting — built for long sessions in low light.",
   "version": "1.0.0",
   "publisher": "matt-wigg",
@@ -43,7 +43,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nightcraft",
+        "label": "Nightcraft Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/nightcraft.json"
       }

@@ -1,4 +1,4 @@
-# Nightcraft
+# Nightcraft Theme
 
 VS Code dark theme. Blends [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) syntax tokens with [VS Code Dark Modern](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json) UI chrome - both pushed darker.
 
@@ -15,7 +15,7 @@ VS Code dark theme. Blends [Atom One Dark](https://marketplace.visualstudio.com/
 
 ## Install
 
-Extensions (`Ctrl+Shift+X`) → search **Nightcraft** → Install
+Extensions (`Ctrl+Shift+X`) → search **Nightcraft Theme** → Install
 
 Or: `code --install-extension matt-wigg.visual-studio-code-theme-nightcraft`
 
